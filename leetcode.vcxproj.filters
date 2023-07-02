@@ -18,8 +18,11 @@
     <ClCompile Include="header.ixx">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="isValid.cpp">
+    <ClCompile Include="mergeTwoLists.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".clang-format" />
   </ItemGroup>
 </Project>
