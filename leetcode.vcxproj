@@ -131,8 +131,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="fourSum.cpp" />
     <ClCompile Include="header.ixx" />
-    <ClCompile Include="mergeTwoLists.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".clang-format" />
